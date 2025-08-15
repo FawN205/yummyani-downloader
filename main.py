@@ -10,7 +10,8 @@ import m3u8_To_MP4
 import requests
 from bs4 import BeautifulSoup
 from pick import pick
-from .kodik import Kodik
+from kodik import Kodik
+import lxml
 
 DIRNAME = dirname(__file__)
 CONFIG_FILE = os.path.join(DIRNAME, "config.ini")
