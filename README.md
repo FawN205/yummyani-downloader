@@ -26,3 +26,7 @@
 1. Скачать файл yummy.exe со страницы releases
 2. Запустить и следовать инструкциям
 
+
+
+https://github.com/user-attachments/assets/6a985a2f-101b-4fe4-9c18-4ae296122ffa
+
